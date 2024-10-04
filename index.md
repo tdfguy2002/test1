@@ -1,5 +1,8 @@
-Now is the 
+# Welcome to My GitHub Pages
 
-Time for all
+This is my first GitHub Pages site!
 
-Good Men !!
+## About
+
+- **GitHub Username:** YourUsername
+- **Project:** GitHub Pages
